@@ -1,0 +1,9 @@
+Building Bernie-Madoff
+
+See doc/readme-qt.rst for instructions on building Bernie-Madoff QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bernie-Madoff.
+
+See doc/build-*.txt for instructions on building Bernie-Madoffd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bernie-Madoff.
