@@ -13,7 +13,7 @@ LIBPATHS= \
  -L"C:\deps\boost_1_55_0\stage\lib" \
  -L"C:\deps\db-4.8.30.NC\build_unix" \
  -L"C:\deps\openssl-1.0.2k" \
- -L"C:\Bernie-Madoff\src\leveldb"
+ -L"E:\Profit\src\leveldb"
  
 LIBS= \
  -l leveldb \
